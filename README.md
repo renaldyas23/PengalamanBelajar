@@ -20,4 +20,7 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
   * Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar. 
   * Mengerjakan ujian akhir untuk menilai kemahiran diri.
 
-
+**1 Juli 2020**  
+Penutupan program Pembelajaran Pemrogaman dengan Java.
+  * Penyerahan sertifikat
+  * Acara penutupan yang dihadiri oleh semua peserta dan penyelenggara program
